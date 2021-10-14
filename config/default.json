@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "lemkas hi",
+    "mongoUri": "mongodb+srv://lemkas:123qwe@cluster0.cveow.mongodb.net/app?retryWrites=true&w=majority"
+}
